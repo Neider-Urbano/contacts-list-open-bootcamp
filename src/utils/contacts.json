@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "neider", "age": 21, "state": "conectado" },
+  { "id": 2, "name": "carlos", "age": 80, "state": "desconectado" },
+  { "id": 3, "name": "santiago", "age": 13, "state": "desconectado" }
+]
